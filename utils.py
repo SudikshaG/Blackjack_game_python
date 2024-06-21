@@ -1,9 +1,9 @@
 import os
-
+#importing the clear functions into the main.py file
 def clear():
-    # For Windows
+    # For Windows operating systems
     if os.name == 'nt':
         os.system('cls')
-    # For macOS and Linux
+    # For macOS and Linux operating systems
     else:
         os.system('clear')

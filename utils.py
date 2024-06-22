@@ -1,5 +1,5 @@
 import os
-#importing the clear functions into the main.py file
+#importing the clear function into the main.py file
 def clear():
     # For Windows operating systems
     if os.name == 'nt':

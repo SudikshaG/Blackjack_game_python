@@ -1,3 +1,4 @@
+#The goal of blackjack is simple.  All one needs to do to win is have a higher hand value than the dealer, without going over 21.
 import random
 from utils import clear
 from art import logo

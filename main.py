@@ -23,7 +23,7 @@ def calculate_score(cards):
 
 
 def compare(user_score, computer_score):
- 
+ #added the emojis
   if user_score > 21 and computer_score > 21:
     return "You went over. You lose 😤"
 

@@ -10,6 +10,6 @@ logo = """
       
 """
                    
-
+#import logo to main.py
                                       
      
